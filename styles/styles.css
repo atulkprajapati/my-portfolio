@@ -1,0 +1,26 @@
+.home{
+    height: 100vh;
+    background: linear-gradient(
+        rgba(0,0,0,0.8),
+        rgba(0,0,0,0.2)),
+        url(../imgs/background-image.jpeg);
+    background-size: cover;
+}
+
+.intro{
+    color: whitesmoke;
+    padding: 10% 20%;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.name{
+    font-size: 4.1em;
+    font-weight: 600;
+}
+
+.sub-name{
+    font-size: 1.53em;
+    font-weight: 200;
+}
